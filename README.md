@@ -1,2 +1,4 @@
 # residential_recycling
-This dataset will analyze the rate of effectiveness for recycling programs in advantaged and disadvantaged communities. 
+This dataset was assembleded for the Wintter 2020 quarter for the iSchool at the University of Washington. It analyzes the amount of waste, diversino rates, diversion rates, and costs for the cities of San Francisco, Seattle, and New York. Although the data is freely accesible, the intended audience is municipal policymakers.
+
+Findings are also availabele in both .xlxs and .csv formats. Included are two tables: one contains raw data while the other displays the data's z-scores. Z-scores were included for normalization to determine the distance from the arithmetic mean in standard deviations. These findings assist in identifying programs that are either over or under performing in comparision to the average. Duplicate variables were not calculated, and all fields have been filled. Thus, cleaning proves to be an extraneous task. 
