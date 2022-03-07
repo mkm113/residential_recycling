@@ -56,9 +56,7 @@ This naming convention originally contained a third value for municipalities. Du
 | language | en-us | 
 | modified | 2022-03-07 | 
 | publisher | Keiko Martinez | 
-| references | https://www.nj.gov/dep/dshw/recycling/stat_links/2017finalreport.pdf
-https://dsny.cityofnewyork.us/wp-content/uploads/2018/04/2017-Waste-Characterization-Study.pdf
-https://sfpublicworks.org/sites/default/files/Recology%20San%20Francisco%20 Companies%27%20Annual%20Report%20for%20Rate%20Year%202017.pdf, http://www.seattle.gov/Documents/Departments/SPU/Documents/2017Recyclin gProgramReport.pdf | 
+| references | https://www.nj.gov/dep/dshw/recycling/stat_links/2017finalreport.pdf, https://dsny.cityofnewyork.us/wp-content/uploads/2018/04/2017-Waste-Characterization-Study.pdf, https://sfpublicworks.org/sites/default/files/Recology%20San%20Francisco%20Companies%27%20Annual%20Report%20for%20Rate%20Year%202017.pdf, http://www.seattle.gov/Documents/Departments/SPU/Documents/2017RecyclingProgramReport.pdf | 
 | Rights | This dataset and all associated repositories are freely available to all | 
 | temporal | 2020/P1Y | 
 | theme | recycling, diversion | 
