@@ -47,7 +47,7 @@ This naming convention originally contained a third value for municipalities. Du
 | describedBy | https://github.com/mkm113/residential_recycling | 
 | description | This dataset analyzes tonnage production sizes, recycling rates, diversion rates, and costs of four prominent recyclable materials pertaining to four cities in the United States: Atlantic City, New York, San Francisco, and Seattle. The intended audience are citizens. This dataset has been curated for a class at the University of Washington for the Winter 2020 Quarter.| 
 | accessURL | https://github.com/mkm113/residential_recycling/blob/master/2017_raw.csv | 
-| downloadURL | https://github.com/mkm113/residential_recycling/raw/master/2017_raw.xlsx | 
+| downloadURL | https://github.com/mkm113/residential_recycling/blob/master/2017_raw.xlsx | 
 | format | CSV | 
 | mediaType| CSV | 
 | issued | 2020-3-07 | 
